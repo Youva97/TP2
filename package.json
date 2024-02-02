@@ -12,6 +12,10 @@
     "body-parser": "^1.20.2",
     "eta": "^3.2.0",
     "express": "^4.18.2",
+    "helmet": "^7.1.0",
     "nodemon": "^3.0.3"
+  },
+  "nodemonConfig": {
+    "ext": "js,html,eta"
   }
 }
